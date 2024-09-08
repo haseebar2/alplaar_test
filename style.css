@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(103, 209, 103) ;
+
+}
+.container{
+    padding-top: 50%;
+    padding: 30px;  
+    padding-left: 5%;
+    width:400px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    margin: auto;
+    margin-top: 150px;
+    padding: auto;
+    display: flex;
+}
+input[type=text]{
+    width: 80%;
+    margin: 5px;
+    padding: 15px;
+    justify-content: center;
+    background-color: white;
+    border-radius: 5px;
+}
+button{
+    background-color: rgb(67, 206, 67);
+    width: 85%;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 2px;
+    margin-top: 10px;
+    cursor:pointer;
+    color:white;
+    font-size: 15px;
+}
+a{text-decoration: none;
+  display: flex;
+  margin-left: 10px;
+  margin-top: 10px;  
+  color: rgb(75, 177, 75);
+}
+span{display: flex;}
